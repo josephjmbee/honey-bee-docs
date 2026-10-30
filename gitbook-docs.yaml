@@ -1,0 +1,5 @@
+site:
+  title: Honey Bee Documentation
+  spaces:
+    - path: ./
+      title: Documentation
