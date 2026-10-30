@@ -1,4 +1,6 @@
-git add .gitbook.yaml
-git rm gitbook-docs.yaml --ignore-unmatch
-git commit -m "fix(docs): define site root in gitbook config"
-git push origin main
+# GitBook Site Configuration
+site:
+  root: ./
+  structure:
+    readme: README.md
+    summary: SUMMARY.md
