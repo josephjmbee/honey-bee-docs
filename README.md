@@ -1,52 +1,44 @@
-# 🐝 Welcome to Honey Bee Docs
-
-> The official handbook, command guide, and setup instructions for **Honey Bee** — the feature-packed colony economy, canvas profile, and automated community Discord bot.
-
-<figure><img src="https://i.postimg.cc/0QTtXfgz/Bot-logo.png" alt="Honey Bee Logo" width="120"></figure>
-
+---
+description: >-
+  Honey Bee is an immersive economy and beekeeping simulation bot for Discord.
+  Adopt companion bees, manage your hive vault, send bees on expeditions, and
+  trade in the ticket bazaar!
 ---
 
-### Quick Actions
+# 🐝 Welcome to Honey Bee!
 
-{% hint style="success" %}
-**Ready to bring Honey Bee to your community?**  
-[👉 Click here to invite Honey Bee to your Discord Server](https://discord.com/oauth2/authorize?client_id=1342731685287956541&permissions=277025508352&scope=bot%20applications.commands)
-{% endhint %}
+<figure><img src="https://i.postimg.cc/y8CwwZkJ/beedesign.png" alt=""><figcaption></figcaption></figure>
 
-{% grid %}
-{% card title="Core Colony Commands" icon="atom" href="core-commands/bee.md" %}
-Learn how `/bee`, `/hive`, and `/feed` work with dynamic canvas profiles and nectar generation.
-{% endcard %}
+## 📚 Quick Navigation
 
-{% card title="Bee Tickets & Economy" icon="ticket" href="economy-tickets/balance.md" %}
-Check ticket balances, compete on the global leaderboard, and upgrade colony passes.
-{% endcard %}
+* [`/bee commands`](welcome-to-honey-bee/bee-command.md) — Learn how to adopt, feed, and care for your companion bee.
+* [`/hive commands`](welcome-to-honey-bee/hive-command.md) — Check your vault status, honey production, and tank capacity.
+* [`/colony commands`](welcome-to-honey-bee/honey-bee-commands/expeditions-and-colony-colony.md) — Send your bees out on timed expeditions across different risk tiers.
+* [`/ticket shop`](welcome-to-honey-bee/bee-tickets.md) — Spend your hard-earned Bee Tickets on elite gear and special seasonal bees.
 
-{% card title="Server Administration" icon="shield-halved" href="administration/welcome-leave.md" %}
-Setup automated Welcome & Goodbye embeds, auto-roles, and configure channel permissions.
-{% endcard %}
+## 📌 Command Argument Guidelines
 
-{% card title="Web Dashboard" icon="browser" href="getting-started/dashboard-setup.md" %}
-Upload custom card wallpapers, review premium passes, and manage server configurations.
-{% endcard %}
-{% endgrid %}
+* `()` = Required argument (You must provide this when running the command).
+* `{}` = Optional argument (You can include this for extra customization, but it's not mandatory).
 
----
+## 🚀 Getting Started in 3 Steps
 
-### Key Bot Features
+{% stepper %}
+{% step %}
+### [Invite the Bot ](https://discord.com/oauth2/authorize?client_id=1342731685287956541\&permissions=2147601440\&response_type=code\&redirect_uri=https%3A%2F%2Fbuzzbee.free.nf%2Fthanks\&integration_type=0\&scope=bot+applications.commands+identify)
 
-* **🎨 Custom Canvas Profiles:** Render personalized `/bee` cards with custom-uploaded backgrounds.
-* **🎟️ Dynamic Colony Economy:** Earn Bee Tickets, rank up colony tiers, and climb the global leaderboards.
-* **🛡️ Smart Welcome & Goodbye Embeds:** Fully customizable join/leave notifications with token variables (`{user}`, `{server}`, `{member_count}`).
-* **⚡ Role Automation:** Automatic join roles with integrated Discord role-hierarchy safeguards.
-* **🌐 Cloud Dashboard:** Full web-based configuration directly via [buzzbee.free.nf](https://buzzbee.free.nf/dashboard).
+Add Honey Bee to your server using the official invite link.
+{% endstep %}
 
----
+{% step %}
+### Adopt a Bee
 
-### Community & Official Links
+Run `/bee`  to welcome your first companion bee.
+{% endstep %}
 
-| Service | Link |
-| :--- | :--- |
-| **Official Website & Dashboard** | [buzzbee.free.nf/dashboard](https://buzzbee.free.nf/dashboard) |
-| **Server Management Hub** | [buzzbee.free.nf/servers.php](https://buzzbee.free.nf/servers.php) |
-| **Realtime Service Telemetry** | [buzzbee.free.nf/status.php](https://buzzbee.free.nf/status.php) |
+{% step %}
+### Start Gathering
+
+Use `/honey forage` or `/colony dispatch` to send your bee on its first nectar expedition!
+{% endstep %}
+{% endstepper %}

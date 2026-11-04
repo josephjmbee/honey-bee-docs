@@ -1,22 +1,21 @@
 # Table of contents
 
-* [Introduction](README.md)
-
-## Getting Started
-* [Bot Invite & Permissions](getting-started/invite.md)
-* [Connecting Dashboard](getting-started/dashboard-setup.md)
-
-## Core Commands
-* [/bee (Profile Card)](core-commands/bee.md)
-* [/hive (Colony Stats)](core-commands/hive.md)
-* [/feed (Worker Bees)](core-commands/feed.md)
-
-## Tickets & Economy
-* [/ticket balance](economy-tickets/balance.md)
-* [/ticket buy & trade](economy-tickets/buy.md)
-* [/ticket leaderboard](economy-tickets/leaderboard.md)
-
-## Server Administration
-* [Embed Variables Reference](administration/embed-variables.md)
-* [Welcome & Goodbye System](administration/welcome-leave.md)
-* [Auto-Join Roles](administration/auto-roles.md)
+* [🐝 Welcome to Honey Bee!](README.md)
+  * [🐝 Bee Command](welcome-to-honey-bee/bee-command.md)
+  * [🐝 Companion Bees](welcome-to-honey-bee/companion-bees.md)
+  * [🎫 Bee Tickets](welcome-to-honey-bee/bee-tickets.md)
+  * [🍯 Hive Command](welcome-to-honey-bee/hive-command.md)
+  * [📦 Inventory System](welcome-to-honey-bee/inventory-system.md)
+  * [📜 Honey Bee Commands](welcome-to-honey-bee/honey-bee-commands/README.md)
+    * [🐝 Companion Profile (/bee)](welcome-to-honey-bee/honey-bee-commands/companion-profile-bee.md)
+    * [🍝 Pantry Feeding (/feed)](welcome-to-honey-bee/honey-bee-commands/pantry-feeding-feed.md)
+    * [🏡 Hive Architecture & Reserves (/hive)](welcome-to-honey-bee/honey-bee-commands/hive-architecture-and-reserves-hive.md)
+    * [🍯 Vault, Brewing & Raiding (/honey)](welcome-to-honey-bee/honey-bee-commands/vault-brewing-and-raiding-honey.md)
+    * [🧭 Expeditions & Colony (/colony)](welcome-to-honey-bee/honey-bee-commands/expeditions-and-colony-colony.md)
+    * [⚔️ Wild Meadows Raiding (/raid)](welcome-to-honey-bee/honey-bee-commands/wild-meadows-raiding-raid.md)
+    * [👑 Royal Story Quests (/royal-quest)](welcome-to-honey-bee/honey-bee-commands/royal-story-quests-royal-quest.md)
+    * [⚖️ Global Marketplace (/bee-market)](welcome-to-honey-bee/honey-bee-commands/global-marketplace-bee-market.md)
+    * [🏗️ Architectural Workshops & Upgrades (/upgrade)](welcome-to-honey-bee/honey-bee-commands/architectural-workshops-and-upgrades-upgrade.md)
+    * [🧬 Genetic Laboratory (/lab)](welcome-to-honey-bee/honey-bee-commands/genetic-laboratory-lab.md)
+    * [🧪 Consumable Activator (/use)](welcome-to-honey-bee/honey-bee-commands/consumable-activator-use.md)
+    * [👛 Colony Satchel (/inventory)](welcome-to-honey-bee/honey-bee-commands/colony-satchel-inventory.md)
