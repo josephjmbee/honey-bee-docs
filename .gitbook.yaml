@@ -1,6 +1,0 @@
-# GitBook Site Configuration
-site:
-  root: ./
-  structure:
-    readme: README.md
-    summary: SUMMARY.md
