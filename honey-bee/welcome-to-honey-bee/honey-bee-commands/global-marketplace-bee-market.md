@@ -1,0 +1,13 @@
+---
+description: >-
+  The player-to-player trading post allows beekeepers to securely buy and sell
+  items using Honey or Bee Tickets.
+---
+
+# ⚖️ Global Marketplace (/bee-market)
+
+| **Usage**                                                              | **Subcommand** | **Variables**                                                                                                                                                                                                                                                                                                                           | **Description**                                                                             |
+| ---------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| `/bee-market list item:<key> quantity:<#> price:<#> [days] [currency]` | List           | <p><code>item</code> (Required choices: HP Card, XP Card, Nectar Pack, Amber Shield)</p><p><br></p><p><code>quantity</code> (Required min: 1)</p><p><br></p><p><code>price</code> (Required min: 10)</p><p><br></p><p><code>days</code> (Optional max: 7)</p><p><br></p><p><code>currency</code> (Optional choices: honey, tickets)</p> | List items from your inventory for public sale.                                             |
+| `/bee-market browse`                                                   | Browse         | None                                                                                                                                                                                                                                                                                                                                    | Generates a visual 800x600 canvas board showcasing active market listings sorted by newest. |
+| `/bee-market buy listing_id:<TP_XXXX>`                                 | Buy            | `listing_id` (Required string, e.g., `TP_4821`)                                                                                                                                                                                                                                                                                         | Purchase a listed item instantly using your vault Honey or Bee Tickets.                     |
