@@ -1,6 +1,5 @@
 # 🐝 Welcome to Honey Bee!
 ---
-description: >-
   Honey Bee is an immersive economy and beekeeping simulation bot for Discord.
   Adopt companion bees, manage your hive vault, send bees on expeditions, and
   trade in the ticket bazaar!
