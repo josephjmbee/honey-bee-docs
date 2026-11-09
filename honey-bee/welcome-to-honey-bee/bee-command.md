@@ -8,14 +8,14 @@ description: >-
 
 ***
 
-#### 1. Adopt a Bee <img src="https://i.postimg.cc/L8H82yg6/Honey-Bee.png" alt="" data-size="line">
+#### 1. Adopt a Bee <img src="https://i.postimg.cc/L8H82yg6/Honey-Bee.png" alt=""  width="10" height="10">
 
 * **Command:** `/bee`&#x20;
 * **Description:** Welcomes a brand new companion (bee) to your vault so you can start your beekeeping journey.
 * **Arguments:**
   * `user:{@xyz}` — Optional argument to see your friend or other player's bee.
 
-<figure><img src="https://i.postimg.cc/0yNVgsnQ/beeprofile.webp" alt="" width="10" height="10"><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/0yNVgsnQ/beeprofile.webp" alt=""><figcaption></figcaption></figure>
 
 * **Result:** Displays your active companion bee's dynamic canvas status card, showing its current level, health, XP, and mood expressions!
 
