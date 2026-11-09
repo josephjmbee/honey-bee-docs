@@ -15,7 +15,7 @@ description: >-
 * **Arguments:**
   * `user:{@xyz}` — Optional argument to see your friend or other player's bee.
 
-<figure><img src="https://i.postimg.cc/0yNVgsnQ/beeprofile.webp" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://i.postimg.cc/0yNVgsnQ/beeprofile.webp" alt="" width="10" height="10"><figcaption></figcaption></figure>
 
 * **Result:** Displays your active companion bee's dynamic canvas status card, showing its current level, health, XP, and mood expressions!
 
