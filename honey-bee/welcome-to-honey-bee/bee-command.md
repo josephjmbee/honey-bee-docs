@@ -8,7 +8,7 @@ description: >-
 
 ***
 
-#### 1. Adopt a Bee <img src="https://i.postimg.cc/L8H82yg6/Honey-Bee.png" alt=""  width="10" height="10">
+#### 1. Adopt a Bee <img src="https://i.postimg.cc/L8H82yg6/Honey-Bee.png" alt=""  width="15" height="15">
 
 * **Command:** `/bee`&#x20;
 * **Description:** Welcomes a brand new companion (bee) to your vault so you can start your beekeeping journey.
@@ -41,7 +41,7 @@ When you adopt a companion bee in Honey Bee, your new friend comes with a natura
 
 ***
 
-#### 2. <img src="https://i.postimg.cc/pV388Wst/HB-Honey-Pot.png" alt="" data-size="line"> Feed Your Companion (Bee)
+#### 2. <img src="https://i.postimg.cc/pV388Wst/HB-Honey-Pot.png" alt=""   width="15" height="15"> Feed Your Companion (Bee)
 
 {% hint style="info" %}
 Keep your companion bee healthy, strong, and full of energy by feeding it regularly from your hive pantry!
@@ -68,7 +68,7 @@ Keep your companion bee healthy, strong, and full of energy by feeding it regula
 
 ***
 
-#### 3. <img src="https://i.postimg.cc/T1bjLv9j/HB-Vault.png" alt="" data-size="line"> Using Inventory Items
+#### 3. <img src="https://i.postimg.cc/T1bjLv9j/HB-Vault.png" alt=""   width="15" height="15"> Using Inventory Items
 
 {% hint style="info" %}
 Got special items stored in your satchel? Use them to boost your bee's stats, restore health, or protect your progress!
