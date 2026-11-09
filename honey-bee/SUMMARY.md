@@ -19,3 +19,4 @@
     * [🧬 Genetic Laboratory (/lab)](welcome-to-honey-bee/honey-bee-commands/genetic-laboratory-lab.md)
     * [🧪 Consumable Activator (/use)](welcome-to-honey-bee/honey-bee-commands/consumable-activator-use.md)
     * [👛 Colony Satchel (/inventory)](welcome-to-honey-bee/honey-bee-commands/colony-satchel-inventory.md)
+  * [Advanced Autoresponder Guide](welcome-to-honey-bee/advanced-autoresponder-guide.md)
