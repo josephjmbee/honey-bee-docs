@@ -52,7 +52,7 @@ Keep your companion bee healthy, strong, and full of energy by feeding it regula
 * **Requirements:**
   * You must have an active companion (bee) or adopt it via (`/ticket shop` and `/ticket buy`).
   * Your hive pantry must have available food crates (which you can stock up on using `/ticket buy [list : Bee Food]`)!
-  * **Cost:** `1 Bee Ticket` <img src="https://i.postimg.cc/zvmG3v3x/HB-Ticket.png" alt="" data-size="line">&#x20;
+  * **Cost:** `1 Bee Ticket` <img src="https://i.postimg.cc/zvmG3v3x/HB-Ticket.png" alt=""   width="15" height="15">&#x20;
   * **Quantity:** `30 Food`&#x20;
 * **Benefits:**
   * **Health Restoration:**
