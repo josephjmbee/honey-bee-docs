@@ -8,9 +8,9 @@ description: >-
 
 ***
 
-#### 1. Adopt a Bee <img src="https://i.postimg.cc/L8H82yg6/Honey-Bee.png" alt=""  width="15" height="15">
+#### 1. <img src="https://i.postimg.cc/L8H82yg6/Honey-Bee.png" alt="" data-size="line"> Adopt a Bee&#x20;
 
-* **Command:** `/bee`&#x20;
+* **Command:** `/bee`
 * **Description:** Welcomes a brand new companion (bee) to your vault so you can start your beekeeping journey.
 * **Arguments:**
   * `user:{@xyz}` — Optional argument to see your friend or other player's bee.
@@ -35,13 +35,11 @@ When you adopt a companion bee in Honey Bee, your new friend comes with a natura
 #### 💖 Can You Extend It?
 
 * Yes! If you want your companion bee to stay by your side longer, you can use rare utility items like the **`Magic Miracle`** from the ticket shop, which adds 3 extra days to your bee's active lifespan.
-
-
 {% endhint %}
 
 ***
 
-#### 2. <img src="https://i.postimg.cc/pV388Wst/HB-Honey-Pot.png" alt=""   width="15" height="15"> Feed Your Companion (Bee)
+#### 2. <img src="https://i.postimg.cc/pV388Wst/HB-Honey-Pot.png" alt="" data-size="line"> Feed Your Companion (Bee)
 
 {% hint style="info" %}
 Keep your companion bee healthy, strong, and full of energy by feeding it regularly from your hive pantry!
@@ -52,8 +50,8 @@ Keep your companion bee healthy, strong, and full of energy by feeding it regula
 * **Requirements:**
   * You must have an active companion (bee) or adopt it via (`/ticket shop` and `/ticket buy`).
   * Your hive pantry must have available food crates (which you can stock up on using `/ticket buy [list : Bee Food]`)!
-  * **Cost:** `1 Bee Ticket` <img src="https://i.postimg.cc/zvmG3v3x/HB-Ticket.png" alt=""   width="15" height="15">&#x20;
-  * **Quantity:** `30 Food`&#x20;
+  * **Cost:** `1 Bee Ticket` <img src="https://i.postimg.cc/zvmG3v3x/HB-Ticket.png" alt="" data-size="line">
+  * **Quantity:** `30 Food`
 * **Benefits:**
   * **Health Restoration:**
     * Each food crate consumed restores a random 3 to 6 HP, capped at a maximum of `100 HP`
@@ -68,7 +66,7 @@ Keep your companion bee healthy, strong, and full of energy by feeding it regula
 
 ***
 
-#### 3. <img src="https://i.postimg.cc/T1bjLv9j/HB-Vault.png" alt=""   width="15" height="15"> Using Inventory Items
+#### 3.  <img src="https://i.postimg.cc/T1bjLv9j/HB-Vault.png" alt="" data-size="line">Using Inventory Items
 
 {% hint style="info" %}
 Got special items stored in your satchel? Use them to boost your bee's stats, restore health, or protect your progress!
